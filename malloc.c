@@ -30,5 +30,3 @@ void * malloc(size_t n)
         brme();  
     return sys_malloc(n);
 }
-
-
